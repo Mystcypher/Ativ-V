@@ -1,9 +1,5 @@
 # 🏥 Sistema de Gestão Hospitalar "Vida & Saúde"
 
-> **Atividade Prática IV — Banco de Dados (BCD)**  
-> **Instituição:** SESI / SENAI SP  
-> **Desenvolvedor / DBA:** Mystcypher
-
 ---
 
 ## 📌 Sobre o Projeto

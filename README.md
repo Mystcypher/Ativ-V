@@ -14,8 +14,6 @@
 5. [Parte 2 — 5 Stored Procedures](#-parte-2--5-stored-procedures)
 6. [Parte 3 — Views vs. Stored Procedures](#-parte-3--views-vs-stored-procedures)
 7. [Decisões e premissas](#-decisões-e-premissas)
-8. [Referências](#-referências)
-9. [Autor](#-autor)
 
 ---
 
